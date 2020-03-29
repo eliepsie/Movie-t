@@ -1,2 +1,2 @@
-# Movie-t
+# Movieit
 Movie!t app
